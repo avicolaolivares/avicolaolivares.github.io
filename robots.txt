@@ -1,0 +1,7 @@
+User-Agent: Googlebot
+Allow: /*.css$
+Allow: /*.js$
+Allow: /
+User-agent: *
+Allow: /
+Sitemap: http://avicolaolivares.com/sitemap.xml
